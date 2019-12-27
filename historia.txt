@@ -1,0 +1,4 @@
+Esta es la historia de un médico tratando de aprender Git
+
+CAPITULO 1:¿Qué carajos esta pasando?
+
