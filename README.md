@@ -1,9 +1,11 @@
 #Hyperblog
+
 Un blog increíble para el curso de Git y Github de Platzi
 > "1 por ciento mejor cada día, 37 veces mejor cada año"
 >- James Clear
 
 ##En este curso vemos de todo:
+
 * Comandos de Git
 * Intro a lenguajes de programación
 * Flujo de trabajo en Github
