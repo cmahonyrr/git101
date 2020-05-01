@@ -3,6 +3,8 @@ Esta es la historia de un m�dico tratando de aprender Git
 CAPITULO 1:�Qu� carajos esta pasando?
 este no era el archivo que deb�a abrir
 
+Experimento 1
+
 Master 1
 
 MAster 2
