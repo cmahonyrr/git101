@@ -1,4 +1,6 @@
-Esta es la historia de un médico tratando de aprender Git
+Esta es la historia de un mï¿½dico tratando de aprender Git
 
-CAPITULO 1:¿Qué carajos esta pasando?
-este no era el archivo que debía abrir
+CAPITULO 1:ï¿½Quï¿½ carajos esta pasando?
+este no era el archivo que debï¿½a abrir
+
+Master 1
